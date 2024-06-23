@@ -1,0 +1,29 @@
+@media (max-width:600px){
+ 
+    .search{
+        width: 100%;
+        flex-wrap: wrap;
+        padding: 0;
+        margin: 0;
+        top: 0;
+        bottom: 0;
+    }
+}
+
+@media (max-width:386px){
+    input{
+        padding: 0;
+        margin-left: 0;
+    }
+  
+}
+
+@media (max-width:362px){
+    .detail{
+        display: flex;
+        flex-wrap: wrap;
+    }
+ 
+
+}
+
